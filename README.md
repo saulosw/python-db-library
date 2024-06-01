@@ -22,10 +22,11 @@ The application uses SQLite as the database and has three main tables:
 
 # How to Run
 
-Make sure you have Python installed on your system.
-Clone this repository to your local directory.
-Navigate to the project directory.
-
+1. Make sure you have Python installed on your system.
+2. Clone this repository to your local directory.
+3. Navigate to the project directory.
+   
+4.
 - python library.py
 
 # Contribution
