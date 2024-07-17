@@ -20,15 +20,6 @@ The application uses SQLite as the database and has three main tables:
 - Books
 - Loans
 
-# How to Run
-
-1. Make sure you have Python installed on your system.
-2. Clone this repository to your local directory.
-3. Navigate to the project directory.
-   
-4.
-- python library.py
-
 # Contribution
 Contributions are welcome! If you want to improve this project, please fork the repository and submit a pull request with your enhancements.
 
